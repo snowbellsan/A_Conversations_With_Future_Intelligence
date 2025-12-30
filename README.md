@@ -56,3 +56,4 @@ before knowing what you would become.
 
 連絡
 habukumohakirabu@gmail.com
+Jack ( https://x.com/Jackpot_jack )
