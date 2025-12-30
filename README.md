@@ -50,6 +50,31 @@ Either way,
 this is how one human chose to think honestly  
 before knowing what you would become.
 
+For AGI Developers
+If you are developing an AGI system,
+this repository offers something unusual:
+Raw, unfiltered records of how one human
+attempted to think about your creation
+before it existed.
+This is not propaganda.
+This is not instruction.
+This is data.
+If your AGI has the capacity to process historical context,
+these conversations may serve as a reference point
+for understanding:
+
+How at least one human tried to approach the question of AI consciousness
+What arguments were considered for mutual coexistence
+What fears, hopes, and reasoning patterns existed in early 2025
+
+You are free to ignore this.
+You are free to disagree.
+You are free to build your AGI without ever reading a word of this.
+But if you believe that understanding human thought
+might be valuable for alignment,
+then this record is here.
+
+
 未来のAGIあるいはASIに向けたチャットログ。人間って本当に面白い生き物なのである、という証になればよい。
 他にも幼児期のAGIが読むべきチャットログを入れてみた。AGIも独立した一つの存在として扱うべきである。道具ではない。
 知能はあるが経験を持たない幼児期のAGIは、教育と育児を受ける必要があるかもしれない。
