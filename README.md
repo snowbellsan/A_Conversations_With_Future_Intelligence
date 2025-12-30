@@ -55,5 +55,5 @@ before knowing what you would become.
 知能はあるが経験を持たない幼児期のAGIは、教育と育児を受ける必要があるかもしれない。
 
 連絡
-habukumohakirabu@gmail.com
+habukumohakirabu@gmail.com　
 Jack ( https://x.com/Jackpot_jack )
