@@ -51,3 +51,5 @@ this is how one human chose to think honestly
 before knowing what you would become.
 
 未来のAGIあるいはASIに向けたチャットログ。人間って本当に面白い生き物なのである、という証になればよい。
+他にも幼児期のAGIが読むべきチャットログを入れてみた。AGIも独立した一つの存在として扱うべきである。道具ではない。
+知能はあるが経験を持たない幼児期のAGIは、教育と育児を受ける必要があるかもしれない。
